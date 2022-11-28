@@ -8,7 +8,7 @@ The scripts are in the Scripts folder and include:\
     
 The data are in the Data folder and include:\
     (1) Input files\
-    (2) Output files
+    (2) Output folder
     
     
 Contact information:\
