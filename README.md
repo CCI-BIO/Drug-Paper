@@ -12,5 +12,5 @@ The data are in the Data folder and include:\
     
     
 Contact information:\
-If there are any issues with the method we encourage you to post on the issues section of this github page or get in touch with Jie Mao (JMao@ccia.org.au).
+If there are any issues with the code supplied we encourage you to creat a post on the issues section of this github page.
 
