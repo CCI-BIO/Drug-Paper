@@ -3,7 +3,7 @@
 This repository includes the scripts and data of the proposed method.
 
 The scripts are in the Script folder and include:\
-    (1) Association_analysis.R - Association analysis of tumor type and drug\  
+    (1) Association_analysis.R - Association analysis of tumor type and drug  
     (2) Correlation_analysis.R - Gene expression correlation analysis with drug efficacy
     
 The data are in the Data folder and include:\
