@@ -11,6 +11,6 @@ The data are in the Data folder and include:\
     (2) Output files
     
     
-Contact information:
+Contact information:\
 If there are any issues with the method we encourage you to post on the issues section of this github page or get in touch with Jie Mao (JMao@ccia.org.au).
 
