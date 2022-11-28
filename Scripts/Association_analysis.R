@@ -27,6 +27,7 @@ chemo_drug<-rownames(DrugInfo)[DrugInfo$Category == "Chemotherapeutic"]
 
 # drug efficacy data
 auc<-as.data.frame(read_excel("InVitro_DrugResponseDatabase.xlsx", sheet="AUC")[-c(1:2),])
+#ic50<-as.data.frame(read_excel("InVitro_DrugResponseDatabase.xlsx", sheet="IC50")[-c(1:2),])
 auc<-auc[match(DrugInfo$DrugID_CCI,auc$`Compound ID`),]
 rownames(auc)<-rownames(DrugInfo)
 
